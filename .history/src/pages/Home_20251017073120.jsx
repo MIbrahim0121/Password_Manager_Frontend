@@ -10,7 +10,7 @@ import PasswordService from "../Services/PasswordService.js";
 
 
 
-// home page of pw manager assosiate to backend
+home page of 
 const App = () => {
   const [form, setForm] = useState({ site: "", username: "", password: "" });
   const [passwordArray, setpasswordArray] = useState([]);
